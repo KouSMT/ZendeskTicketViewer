@@ -20,6 +20,7 @@ gradlew installDist
 OSX/Linux:
 
 ```
+chmod +x gradlew
 ./gradlew installDist
 ```
 
